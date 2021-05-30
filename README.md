@@ -2,8 +2,9 @@
 
 Teste Technique make with REACT
 
+- Temps limite 2h à 4h
 - Date : 30/05/21
-- Temps 5h30
+- Temps Realisation : 5h30
 
 ## Instalation
 

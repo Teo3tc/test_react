@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "description": "server",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index",
+    "start": "node index"
+  },
+  "author": "Alexandre Mouton-Brady",
+  "dependencies": {
+    "fastify": "^3.16.2",
+    "fastify-cors": "^6.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

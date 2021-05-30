@@ -1,0 +1,64 @@
+[
+  {
+    "id": "2",
+    "label": "2 x Titre Unitaire",
+    "description": "Pack aller-retour. Titres permettant de voyager sur l'ensemble du réseau. Correspondances illimitées dans l'heure suivant la première validation.",
+    "price": 250,
+    "category_id": "1",
+    "thumbnail_url": "https://picsum.photos/256/256"
+  },
+
+  {
+    "id": "3",
+    "label": "Carnet 10 x Titres Unitaires",
+    "description": "Carnet de 10 titres unitaires. Titre permettant de voyager sur l'ensemble du réseau. Correspondances illimitées dans l'heure suivant la première validation.",
+    "price": 1000,
+    "category_id": "1",
+    "thumbnail_url": "https://picsum.photos/256/256"
+  },
+
+  {
+    "id": "4",
+    "label": "Abonnement Mensuel",
+    "description": "Titre illimité pendant un mois. Permettant de voyager sur l'ensemble du réseau. Validations illimitées jusqu'au dernier jour du mois de la première validation.",
+    "price": 6000,
+    "category_id": "3",
+    "thumbnail_url": "https://picsum.photos/256/256"
+  },
+
+  {
+    "id": "5",
+    "label": "Abonnement Annuel",
+    "description": "Titre illimité pendant 12 mois. Permettant de voyager sur l'ensemble du réseau. Validations illimitées jusqu'au dernier jour du douxième mois après la première validation.",
+    "price": 60000,
+    "category_id": "3",
+    "thumbnail_url": "https://picsum.photos/256/256"
+  },
+
+  {
+    "id": "6",
+    "label": "Abonnement Découverte",
+    "description": "Titre illimité pendant une semaine. Permettant de voyager sur l'ensemble du réseau. Validations illimités jusqu'à fermeture du réseau le dimanche.",
+    "price": 2000,
+    "category_id": "3",
+    "thumbnail_url": "https://picsum.photos/256/256"
+  },
+
+  {
+    "id": "7",
+    "label": "Ticket Parking+Transport",
+    "description": "Titre permettant de se garer dans l'un de nos 48 parkings réservés, ainsi que de faire l'aller-retour sur notre réseau de transport. Valable pour tous les passagers de la voiture (jusqu'à 9)",
+    "price": 400,
+    "category_id": "2",
+    "thumbnail_url": "https://picsum.photos/256/256"
+  },
+
+  {
+    "id": "8",
+    "label": "Carnet 10 x Ticket Parking+Transport",
+    "description": "Carnet de 10 titre permettant de se garer dans l'un de nos 48 parkings réservés, ainsi que de faire l'aller-retour sur notre réseau de transport. Valable pour tous les passagers de la voiture (jusqu'à 9)",
+    "price": 3000,
+    "category_id": "2",
+    "thumbnail_url": null
+  }
+]

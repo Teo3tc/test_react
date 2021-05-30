@@ -1,8 +1,9 @@
 # test_react
 
 Teste Technique make with REACT
-Date : 30/05/21
-Temps 5h30
+
+- Date : 30/05/21
+- Temps 5h30
 
 ## Instalation
 
